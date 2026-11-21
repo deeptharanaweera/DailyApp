@@ -1,0 +1,6 @@
+{
+  "name": "DailyApp",
+  "description": "Offline-first all-in-one home companion for household expenses, smart grocery lists, Sri Lankan meal planning, medication reminders with voice alerts, and a family health vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
